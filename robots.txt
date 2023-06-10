@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://hyunn12.github.io/sitemap/sitemap-index.xml
+Host: https://hyunn12.github.io
